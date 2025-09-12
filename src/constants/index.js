@@ -6,6 +6,8 @@ import {
   succinct,
   canton,
   modularity,
+  vana,
+  rialo,
 } from "../assets";
 
 export const navLinks = [
@@ -50,6 +52,8 @@ const experiences = [
     points: [
       "Web3 Contributor",
       "Helper",
+      "Regional Lead",
+      "Founder of the Turkey Community",
     ],
   },
   {
@@ -57,7 +61,9 @@ const experiences = [
     icon: canton,
     iconBg: "#E6DEDD",
     points: [
-      "Moderatör",
+      "Moderator",
+      "Founder of Community",
+      "Turkey Lead",
     ],
   },
   {
@@ -66,6 +72,29 @@ const experiences = [
     iconBg: "#383E56",
     points: [
       "Co-Founder",
+      "Content Creator",
+      "Community Manager",
+    ],
+  },
+    {
+    title: "VANA",
+    icon: vana,
+    iconBg: "#383E56",
+    points: [
+      "Regional Lead",
+      "Content Creator",
+      "Helper",
+      "Founder of the Turkey Community",
+    ],
+  },
+    {
+    title: "Rialo",
+    icon: rialo,
+    iconBg: "#E6DEDD",
+    points: [
+      "Content Creator",
+      "Web3 Contributor",
+      "Helper",
     ],
   },
 ];
