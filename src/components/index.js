@@ -6,6 +6,7 @@ import Experience from "./Experience";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import Footer from "./Footer";
+import BackgroundMusic from "./BackgroundMusic.jsx";
 
 
 export {
@@ -19,5 +20,6 @@ export {
   BallCanvas, 
   ComputersCanvas, 
   StarsCanvas,
-  Footer
+  Footer,
+  BackgroundMusic
 };
