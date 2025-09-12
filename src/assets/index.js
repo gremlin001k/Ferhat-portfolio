@@ -9,7 +9,7 @@ import close from "./close.svg";
 
 import modularity from "./company/modularity.png";
 import succinct from "./company/succinct.svg";
-import canton from "./company/canton.svg";
+import canton from "./company/canton.png";
 import vana from "./company/vana.png";
 import rialo from "./company/rialo.png";
 
