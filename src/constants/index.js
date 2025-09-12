@@ -59,7 +59,7 @@ const experiences = [
   {
     title: "Canton Network",
     icon: canton,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     points: [
       "Moderator",
       "Founder of Community",
