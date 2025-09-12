@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { FaRegCopy } from "react-icons/fa";
 
 const Footer = () => {
-  const wallet = "0x1234...ABCD"; // твой кошелёк
+  const wallet = "0xAc805cb5962B801fcB62635C16ebE96Fa9C7836A"; // wallet address
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
@@ -21,7 +21,7 @@ const Footer = () => {
         className="bg-tertiary p-6 rounded-2xl shadow-lg flex flex-col items-center gap-4"
       >
         <span className="text-white text-lg font-bold">
-          🚀 Buy me a coffee (or a pizza 🍕)
+          🚀 Send me a coffee (EVM)
         </span>
         <div className="flex items-center gap-3 bg-black-200 px-4 py-2 rounded-lg">
           <code className="text-secondary">{wallet}</code>
