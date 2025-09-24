@@ -21,7 +21,7 @@ const Contact = () => {
     },
     {
       icon: <FaLinkedin />,
-      href: "https://www.linkedin.com/in/crypto-meii-44a943275/",
+      href: "https://www.linkedin.com/in/ferhat-nazli-44a943275/",
       color: "hover:text-blue-500",
     },
     {
