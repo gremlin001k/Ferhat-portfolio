@@ -53,7 +53,7 @@ const experiences = [
       "Web3 Contributor",
       "Helper",
       "Regional Lead",
-      "Founder of the Turkey Community",
+      "Founder of the Türkiye Community",
     ],
   },
   {
@@ -63,7 +63,7 @@ const experiences = [
     points: [
       "Moderator",
       "Founder of Community",
-      "Turkey Lead",
+      "Türkiye Lead",
     ],
   },
   {
